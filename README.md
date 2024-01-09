@@ -6,7 +6,7 @@
 * StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On, 2023, [[paper]](https://arxiv.org/abs/2312.01725), [[code]](https://github.com/rlawjdghek/StableVITON)
 * TryOnDiffusion: A Tale of Two UNets, CVPR 2023, [[paper]](https://arxiv.org/abs/2306.08276)
 
-* ## GAN
+## GAN
 * Be Your Own Prada: Fashion Synthesis with Structural Coherence : [[paper]](http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN/)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/92)
 * Fashion-Gen: The Generative Fashion Dataset and Challenge : [[paper]](https://arxiv.org/abs/1806.08317)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/95)
 * DwNet: Dense warp-based network for pose-guided human video generation: [[paper]](https://arxiv.org/abs/1910.09139)[[review]](https://github.com/chullhwan-song/Reading-Paper/issues/233)
