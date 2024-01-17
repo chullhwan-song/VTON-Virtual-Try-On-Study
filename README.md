@@ -1,4 +1,5 @@
 # Reading Paper :  Virtual-Try-On
+![image](https://github.com/chullhwan-song/VTON-Virtual-Try-On-Study-Paper/assets/40360823/feb54138-7791-4bd8-806a-aa367ca1f3ce)
 
 ## Diffusion 
 * Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Person Images, 2023, [[paper]](https://arxiv.org/abs/2311.16094)
