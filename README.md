@@ -1,5 +1,10 @@
 # Reading Paper :  Virtual-Try-On
+
+## 나의 현재까지 결과 (좋은것만 보여줌)
 ![image](https://github.com/chullhwan-song/VTON-Virtual-Try-On-Study-Paper/assets/40360823/feb54138-7791-4bd8-806a-aa367ca1f3ce)
+![image](https://github.com/chullhwan-song/VTON-Virtual-Try-On-Study-Paper/assets/40360823/012d092e-b6ec-496c-999c-164d76ae5cb3)
+![image](https://github.com/chullhwan-song/VTON-Virtual-Try-On-Study-Paper/assets/40360823/d69f44a1-111e-4e85-aa41-c52bd5294232)
+![image](https://github.com/chullhwan-song/VTON-Virtual-Try-On-Study-Paper/assets/40360823/04ad2fc2-c46f-4701-b7e3-dc291cf422e5)
 
 ## Diffusion 
 * Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Person Images, 2023, [[paper]](https://arxiv.org/abs/2311.16094)
